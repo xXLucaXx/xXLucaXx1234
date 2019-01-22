@@ -1,0 +1,30 @@
+h1 {
+    color:white;
+    background-color: black;
+    font-size: 50px; 
+    text-align: center;
+}
+p{
+    color:green;
+    font-size: 20px;
+}
+#immagine {
+    width: 500px;
+    height: 500px;
+    float: left;
+    margin-right: 10px;
+}
+#immaginedue{
+    width:390px;
+}
+th{
+    font-size:30px;
+}
+#immaginetre{
+    height:320px;
+    width: 500px;
+}
+#immaginequattro{
+    width:400px;
+    height:320px;
+}
